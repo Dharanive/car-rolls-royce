@@ -1,0 +1,79 @@
+.car{
+    
+    width: 600px;
+    height: 700px;
+    background-color: rgb(83, 198, 79);
+    margin-left: 35%;
+    border-radius: 2px;
+    
+    
+}
+#img{
+  width:600px;
+  
+    background-color: rgb(83, 198, 79);
+    margin-left: 0%;
+    border-radius: 2px;
+}
+.c1 
+{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    
+    border-radius: 50%;
+    margin-left: 2%;
+    
+  
+}
+.c2
+{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(85, 41, 5);
+    border: none;
+    
+    border-radius: 50%;
+    margin-left: 2%;
+}
+.c3
+{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    
+    border-radius: 50%;
+    margin-left: 2%;
+
+}
+.c1:hover{
+    cursor: pointer;
+}
+.c2:hover{
+    cursor: pointer;
+}
+.c3:hover{
+    cursor: pointer;
+}
+.save
+{
+    height: 33px;
+    width: 230px;
+    margin-left: 1%;
+    border-radius: 2px;
+    background-color: rgb(206, 206, 206);
+    cursor: pointer;
+    
+    
+
+}
+.save:hover{
+    background-color: rgb(189, 190, 189);
+    
+    
+}
+    
+
+
